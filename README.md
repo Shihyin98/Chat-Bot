@@ -5,7 +5,7 @@
 
 |   Exercise  |   Elementary  | Intermediate  |  Advanced  |
 |  :-------:  |   :-------:   |   :-------:   | :-------:  |
-| Ex1-LineBot |       -       |       -       |      -     |
+| Ex1-LineBot | 01-LineBot-L1 |       -       |      -     |
 | Ex2-        |       -       |       -       |      -     |
 
 
